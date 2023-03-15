@@ -8,5 +8,6 @@
 </head>
 <body>
   <h1>Hello World 2.1</h1>
+  <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
 </body>
 </html>
